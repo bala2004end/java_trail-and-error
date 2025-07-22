@@ -22,3 +22,7 @@ class reverse {
         }
     }
     }
+/* this output is should be reverse the array from one time reverse using while loop 
+ while (start < end)
+ false its finsh rotate array
+ */
